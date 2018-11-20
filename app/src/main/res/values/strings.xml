@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Carteira de Clientes</string>
+    <string name="title_activity_act_main">Carteira de Clientes</string>
+    <string name="title_activity_act_cad_cliente">Cliente</string>
+    <string name="lbl_nome">Nome</string>
+    <string name="lbl_endereco">Endereço</string>
+    <string name="lbl_email">Email</string>
+    <string name="lbl_telefone">Telefone</string>
+    <string name="title_menu_ok">OK</string>
+    <string name="title_menu_cancelar">Cancelar</string>
+    <string name="dlg_title_aviso">Aviso</string>
+    <string name="dlg_message_campos_invalidos">Há campos vazios ou inválidos</string>
+    <string name="dlg_button_ok">OK</string>
+    <string name="snackbar_connection">Conexão criada com sucesso!</string>
+    <string name="dlg_message_error_cliente">Erro ao cadastrar cliente.</string>
+    <string name="title_menu_remove">Excluir</string>
+
+</resources>
